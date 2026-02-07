@@ -57,7 +57,7 @@ This project is designed for learning, interviews, and showcasing clean Laravel 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/laravel-simple-inventory.git
+git clone https://github.com/Mushfiqul21/laravel-simple-inventory.git
 cd laravel-simple-inventory
 composer install
 cp .env.example .env
